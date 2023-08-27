@@ -1,12 +1,12 @@
 
-public class LoginPage {
+public class SignupPage {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		
 		
-
+		System.out.println("this is signup page code");
 
 	}
 
